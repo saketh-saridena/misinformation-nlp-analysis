@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Misinformation NLP Analysis</title>
+  <desc id="d">Should platforms answer for misinformation? 1,054 articles, mined.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#16367a"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <g transform="translate(96 88)"><circle cx="72" cy="72" r="72" fill="#ffffff" fill-opacity=".08"/><g fill="none" stroke="#fff" stroke-width="8" stroke-linejoin="round"><rect x="34" y="38" width="64" height="70" rx="6"/><path d="M98 56h12v44a8 8 0 0 1-8 8H98"/><path d="M46 54h40M46 70h40M46 86h26" stroke-linecap="round"/></g></g>
+  <text x="300" y="158" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Misinformation NLP Analysis</text>
+  <text x="302" y="208" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="26">Should platforms answer for misinformation? 1,054 articles, mined.</text>
+  <g transform="translate(1078 232) scale(.55)" opacity=".9"><g fill="none" stroke="#7cc4ff" stroke-width="4" opacity=".7"><path d="M20 70 70 20 130 50 170 18M70 20 90 96 130 50M20 70 90 96 160 92 130 50"/></g><circle cx="20" cy="70" r="9" fill="#7cc4ff"/><circle cx="70" cy="20" r="11" fill="#7cc4ff"/><circle cx="130" cy="50" r="13" fill="#7cc4ff"/><circle cx="170" cy="18" r="8" fill="#7cc4ff"/><circle cx="90" cy="96" r="10" fill="#7cc4ff"/><circle cx="160" cy="92" r="9" fill="#7cc4ff"/></g>
+</svg>

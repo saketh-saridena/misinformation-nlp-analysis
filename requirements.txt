@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch
+requests
+feedparser
+matplotlib
+seaborn
+tabulate
+notebook
